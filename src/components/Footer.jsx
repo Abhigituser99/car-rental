@@ -33,7 +33,7 @@ function Footer() {
                   style={{ fontSize: "14px" }}
                   target="_blank"
                   rel="noreferrer"
-                  href="https://xpeedstudio.com/"
+                  href="http://www.linkedin.com/in/abhishek-yadav-74b798146"
                 >
                   Design by Abhishek Yadav
                 </a>
